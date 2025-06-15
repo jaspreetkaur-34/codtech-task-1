@@ -22,3 +22,10 @@ This project fetches 5-day weather forecast data from the **OpenWeatherMap API**
 - Fetches live weather forecast for a selected city
 - Visualizes temperature and humidity trends
 
+## 📁 Files Included
+- `weather_dashboard.py` - Main script
+- `requirements.txt` - List of dependencies
+- `sample_output.png` - Example of plotted graph
+- `README.md` - Documentation
+
+
